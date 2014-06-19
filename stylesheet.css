@@ -1,0 +1,37 @@
+body{ 
+background-color: #c1e6f5;
+}
+p{
+font-family: "Comic Sans MS";
+color:black;
+text-align: center;
+}
+h1{
+font-family: Arial;
+}
+h2{
+font-family: Arial;
+}
+ol{
+font-family: "Comic Sans MS";
+text-align: center;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+li{
+display: inline;
+text-decoration: underline; 
+}
+a{
+text-decoration: underline;
+}
+h1{
+text-align: center;
+}
+h2{
+text-align: center;
+}
+
